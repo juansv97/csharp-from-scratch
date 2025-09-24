@@ -1,0 +1,15 @@
+C:\proyectos git\new_copy\clases_y_herencia\bin\Debug\net9.0\clases_y_herencia.exe
+C:\proyectos git\new_copy\clases_y_herencia\bin\Debug\net9.0\clases_y_herencia.deps.json
+C:\proyectos git\new_copy\clases_y_herencia\bin\Debug\net9.0\clases_y_herencia.runtimeconfig.json
+C:\proyectos git\new_copy\clases_y_herencia\bin\Debug\net9.0\clases_y_herencia.dll
+C:\proyectos git\new_copy\clases_y_herencia\bin\Debug\net9.0\clases_y_herencia.pdb
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.AssemblyInfoInputs.cache
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.AssemblyInfo.cs
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.csproj.CoreCompileInputs.cache
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.sourcelink.json
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.dll
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\refint\clases_y_herencia.dll
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.pdb
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\clases_y_herencia.genruntimeconfig.cache
+C:\proyectos git\new_copy\clases_y_herencia\obj\Debug\net9.0\ref\clases_y_herencia.dll
